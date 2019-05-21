@@ -28,11 +28,11 @@ Somewhat surspiringly, eliminating part of an individual's conscious experience 
 
 By a tragic sequence of political decisions, today the vast majority of the human population on Earth have been mentally blindfolded, they have been stripped of their subjective reality, their inner Cartesian theatre, as their conscious experience has been systematically elimited. The result is an elitist society, with a few conscious individuals controlling the worldwide workforce. Civil unrest is a thing of the past, national borders have been disolved, and with them, the need for war has vanished.
 
-What is left is but an ocean of Chalmarian zombies. <br>
+What is left is but an ocean of Chalmarian zombies.<br>
 *Without an eye for the future, we are but automatons.*
 
 – X44929251
 
 ---
 
-<b id="footnote1">1</b> The spatio-temporal best effort prediction (a moment of consciousness) gives a survival advantage as perception (organisation, identification and interpretation of sensory input) takes time to process. [↩](#anchor1)
+<sup><b id="footnote1">1</b></sup> The spatio-temporal best effort prediction (a moment of consciousness) gives a survival advantage as perception (organisation, identification and interpretation of sensory input) takes time to process. [↩](#anchor1)
