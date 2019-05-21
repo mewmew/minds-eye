@@ -33,4 +33,6 @@ What is left is but an ocean of Chalmarian zombies. <br>
 
 — X44929251
 
+---
+
 <b id="footnote1">1</b> The spatio-temporal best effort prediction (a moment of consciousness) gives a survival advantage as perception (organisation, identification and interpretation of sensory input) takes time to process. [↩](#anchor1)
