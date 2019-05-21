@@ -2,11 +2,11 @@
 
 The year is 2184 and the worldwide society is at peace. Through advances in Neuromorphic Computing, Neural Interfaces and Computational Neuroscience, by the turn of the century non-invasive bidirectional communication with the brain was made not only possible but perfected and made ubiquitous across all of society.
 
-It turns out that the early theoretical frameworks for understanding the brain, although crude in detail, managed to nail the conceptual high-level metaphor -- the brain really is a **prediction engine** in its essence.
+It turns out that the early theoretical frameworks for understanding the brain, although crude in detail, managed to nail the conceptual high-level metaphor – the brain really is a **prediction engine** in its essence.
 
 Even more controversial at the time of its postulate, the theory that conscious experience itself is nothing but a bi-product of predicting the next time step in a spatio-temporal system<sup id="anchor1">[1](#footnote1)</sup>; a theory that has since been proven beyond any reasonable doubt.
 
-The once groundbreaking experiments on consciousness are now routine; by hooking into different stages of the prediction engine every layer of consciousness is made accessible -- just like peeling an onion -- and as such left vulnerable to Inspection, Replication, Manipulation and Extinction.
+The once groundbreaking experiments on consciousness are now routine; by hooking into different stages of the prediction engine every layer of consciousness is made accessible – just like peeling an onion – and as such left vulnerable to Inspection, Replication, Manipulation and Extinction.
 
 **Inspection**
 
@@ -14,7 +14,7 @@ The first application of this technology surprised even the experts of the field
 
 **Replication**
 
-The second application long dreamed of by the anroid community, not just life-like but fully sentient androids and other self-aware robots with conscious experience. The ability to replicate consciousness -- the once believed **Hard Problem** -- was solved almost by accident. Striving to replicate intelligence, the scientific community managed to reverse engineering the semantics and dynamic properties of the prediction engine that is the mamalian brain. The reverse engineered blue print was used to produce an interconnected information processing system with sufficiently auto-associative and recurrent capabilities to give rise to the emergent phenomena that is consciousness.
+The second application long dreamed of by the anroid community, not just life-like but fully sentient androids and other self-aware robots with conscious experience. The ability to replicate consciousness – the once believed **Hard Problem** – was solved almost by accident. Striving to replicate intelligence, the scientific community managed to reverse engineering the semantics and dynamic properties of the prediction engine that is the mamalian brain. The reverse engineered blue print was used to produce an interconnected information processing system with sufficiently auto-associative and recurrent capabilities to give rise to the emergent phenomena that is consciousness.
 
 **Manipulation**
 
@@ -31,7 +31,7 @@ By a tragic sequence of political decisions, today the vast majority of the huma
 What is left is but an ocean of Chalmarian zombies. <br>
 *Without an eye for the future, we are but automatons.*
 
-— X44929251
+– X44929251
 
 ---
 
