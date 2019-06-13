@@ -10,7 +10,7 @@ The once groundbreaking experiments on consciousness are now routine; by hooking
 
 **Inspection**
 
-The first application of this technology surprised even the experts of the field with its uncanny precision, mind reading with near perfect ability to predict the next few hundreds of milliseconds of thought at fine scale conceptual level.
+The first application of this technology surprised even the experts of the field with its uncanny precision, mind reading with near perfect ability to predict the next few hundreds of milliseconds of thought at fine-scale conceptual level.
 
 **Replication**
 
