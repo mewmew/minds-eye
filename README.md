@@ -14,7 +14,7 @@ The first application of this technology surprised even the experts of the field
 
 **Replication**
 
-The second application long dreamed of by the dori-kei community, not just life-like but fully sentient androids and other self-aware robots with conscious experience. The ability to replicate consciousness – the once believed **Hard Problem** – was solved almost by accident. Striving to replicate intelligence, the scientific community managed to reverse engineering the semantics and dynamic properties of the prediction engine that is the mammalian brain. The reverse engineered blue print was used to produce an interconnected information processing system with sufficiently auto-associative and recurrent capabilities to give rise to the emergent phenomena that is consciousness.
+The second application long dreamed of by the dori-kei community, not just life-like but fully sentient androids and other self-aware robots with conscious experience. The ability to replicate consciousness – the once believed **Hard Problem** – was solved almost by accident. Striving to replicate intelligence, the scientific community managed to reverse engineering the semantics and dynamic properties of the prediction engine that is the mammalian brain. The reverse engineered blueprint was used to produce an interconnected information processing system with sufficiently auto-associative and recurrent capabilities to give rise to the emergent phenomena that is consciousness.
 
 **Manipulation**
 
