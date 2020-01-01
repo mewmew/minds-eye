@@ -26,7 +26,7 @@ While the other applications were scrutinised by ethical review boards, this fin
 
 Somewhat surprisingly, eliminating parts of an individual's conscious experience did not severely alter their cognitive or physical capabilities. Fully eliminating it did produce individuals that could not seem to predict aspects of their future based on prior experience, and as such were left as blank vessels without intrinsic will to act, but readily accepting commands received from the environment.
 
-By a tragic sequence of political decisions, today the vast majority of the human population on Earth have been mentally blindfolded, they have been stripped of their subjective reality, their inner Cartesian theatre, as their conscious experience has been systematically eliminate. The result is an elitist society, with a few conscious individuals controlling the worldwide workforce. Civil unrest is a thing of the past, national borders have been dissolved, and with them, the need for war has vanished.
+By a tragic sequence of political decisions, today the vast majority of the human population on Earth have been mentally blindfolded, they have been stripped of their subjective reality, their inner Cartesian theatre, as their conscious experience has been systematically eliminated. The result is an elitist society, with a few conscious individuals controlling the worldwide workforce. Civil unrest is a thing of the past, national borders have been dissolved, and with them, the need for war has vanished.
 
 What is left is but an ocean of Chalmarian zombies.<br>
 *Without an eye for the future, we are but automatons.*
